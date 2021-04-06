@@ -1,6 +1,6 @@
 # XLA Custom Calls
 
-This document doesn't describe how to write and use XLA "custom calls". Custom calls
+This document describes how to write and use XLA "custom calls". Custom calls
 let you invoke code written in a programming language like C++ or CUDA from an
 XLA program.
 
